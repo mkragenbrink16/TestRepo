@@ -1,3 +1,3 @@
 # TestRepo
 GitHub testing lab by Mitchell Kragenbrink
-beware the hungary emu
+Beware the wrath of the hungary emu
